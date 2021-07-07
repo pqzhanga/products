@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+*.log
+.env
+.phpstorm.meta.php
+.constant
+install/install.lock
+public/*
+public/phpExcel/*
